@@ -1,5 +1,6 @@
 # Python_Send_KakaoTalk_Message
 [Python] 카카오에서 제공하는 메세지 전송 API를 통해서 특정 사용자에게 원하는 메시지를 전달합니다.
+
 Send messages to specific users through the Message Transfer API provided by Kakao.
 
 ----------------------------------------------------------------------------------
